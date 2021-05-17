@@ -14,33 +14,3 @@ The sound examples are from four models: the proposed PitchGAN; PitchGAN trained
 | 8765_101:132        | <audio src="test_set/8765_101_132/gan.mp3" controls></audio> | <audio src="test_set/8765_101_132/ganmse.mp3" controls></audio> | <audio src="test_set/8765_101_132/mse.mp3" controls></audio> | <audio src="test_set/8765_101_132/baseline.mp3" controls></audio> | <audio src="test_set/8765_101_132/origin.mp3" controls></audio> |
 | 77374_49:75         | <audio src="test_set/77374_49_75/gan.mp3" controls></audio> | <audio src="test_set/77374_49_75/ganmse.mp3" controls></audio> | <audio src="test_set/77374_49_75/mse.mp3" controls></audio> | <audio src="test_set/77374_49_75/baseline.mp3" controls></audio> | <audio src="test_set/77374_49_75/origin.mp3" controls></audio> |
 | 3198354_7:34        | <audio src="test_set/3198354_7_34/gan.mp3" controls></audio> | <audio src="test_set/3198354_7_34/ganmse.mp3" controls></audio> | <audio src="test_set/3198354_7_34/mse.mp3" controls></audio> | <audio src="test_set/3198354_7_34/baseline.mp3" controls></audio> | <audio src="test_set/3198354_7_34/origin.mp3" controls></audio> |
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ella-granger/ella-granger.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
