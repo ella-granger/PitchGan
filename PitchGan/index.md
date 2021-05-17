@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
 
-You can use the [editor on GitHub](https://github.com/ella-granger/ella-granger.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## PitchGAN: A Conditional GAN Generating Pitch Curve for Singing Voice Synthesis
+contact: huiranyu@andrew.cmu.edu
+### Sound Examples
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The sound examples are from four models: the proposed PitchGAN; PitchGAN trained with the sum of GAN loss and MSE loss; generator in PitchGAN trained with MSE loss; the CNN-LSTM baseline model. The original audios from an amatuer singer are also listed here for reference.
 
-### Markdown
+|  SongID_start:end   | GAN(proposed) | GAN + MSE | Generator + MSE | CNN-LSTM + MSE  | Origin Audio |
+|  :----:             | :----:        | :----:    | :----:          | :----:          | :----:       |
+| 8765_21:51          | <audio id="audio" controls="" preload="none"><source id="gan_1" src="test_set/8765_21_51/gan.mp3"></audio> | | | | |
+| 8765_101:132        | | | | | |
+| 77374_49:75         | | | | | |
+| 3198354_7:34        | | | | | |
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
