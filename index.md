@@ -10,7 +10,7 @@ The sound examples are from four models: the proposed PitchGAN; PitchGAN trained
 
 |  SongID_start:end   | GAN(proposed) | GAN + MSE | Generator + MSE | CNN-LSTM + MSE  | Origin Audio |
 |  :----:             | :----:        | :----:    | :----:          | :----:          | :----:       |
-| 8765_21:51          | <audio id="audio"><source id="gan_1" src="test_set/8765_21_51/gan.mp3"></audio> | | | | |
+| 8765_21:51          | <audio id="audio" controls=""><source id="gan_1" src="test_set/8765_21_51/gan.mp3"></audio> | | | | |
 | 8765_101:132        | | | | | |
 | 77374_49:75         | | | | | |
 | 3198354_7:34        | | | | | |
