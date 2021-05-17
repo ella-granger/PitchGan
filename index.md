@@ -1,7 +1,3 @@
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
-
 ## PitchGAN: A Conditional GAN Generating Pitch Curve for Singing Voice Synthesis
 contact: huiranyu@andrew.cmu.edu
 ### Sound Examples
